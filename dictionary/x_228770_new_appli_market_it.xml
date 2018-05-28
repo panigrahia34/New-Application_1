@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Market IT" max_length="40" name="x_228770_new_appli_market_it" type="collection"/>
+</database>
