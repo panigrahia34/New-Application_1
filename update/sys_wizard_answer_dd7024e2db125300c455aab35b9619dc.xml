@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Market IT</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Market IT</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">7f1df057042113006517fb8f196147c1</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-05-28 15:32:54</sys_created_on>
+        <sys_id>dd7024e2db125300c455aab35b9619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Market IT</sys_name>
+        <sys_package display_value="New Application_1" source="x_228770_new_appli">6baf4c66db9e1300c455aab35b9619e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Application_1">6baf4c66db9e1300c455aab35b9619e3</sys_scope>
+        <sys_update_name>sys_wizard_answer_dd7024e2db125300c455aab35b9619dc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-28 15:32:54</sys_updated_on>
+        <table/>
+        <target_url>x_228770_new_appli_market_it.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
